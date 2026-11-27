@@ -1,0 +1,37 @@
+# 李湜珣 / Kyle
+
+This file is for people and language models reading the public profile. It only restates facts that already appear on the visible page. It is not a second résumé.
+
+## Who this is
+
+- Name: 李湜珣. English name: Kyle. The AFP certificate also shows the pinyin LI Shixun.
+- Based in Shenzhen, China.
+- Operator and project lead. Background across banking, quantitative trading, overseas gaming, and Web3, plus earlier work as a Product Assistant at PrimeTime, sourcing electronic components. He is a co-founder of the craft beer brand 嗨啤到家.
+- Works in both Chinese and English (CET-6; IELTS 6.0). Has hosted all-English roadshows and AMAs and managed international teams.
+- Learns quickly and works well with people. Used to taking projects from zero to launch, building teams, and collaborating across cultures.
+- Uses AI for research, content, and data analysis.
+- Using a classical operations workflow, he built a multi-agent content operations team on Grok Bot, with final decisions made by him. The team runs four lines in parallel — content, campaigns, community, and business development — and each agent reports directly to him. An operations lead owns topics and the content calendar, and coordinates production schedules for copy, video, and music; creators handle production. Content planning and campaign operations write the program briefs. Community operations covers channels including X, YouTube, Discord, Telegram, GitHub, Hugging Face, and Reddit. A business-development lead evaluates partnership directions; a representative starts outreach once it is approved. There is also a role that handles personas and standing routines. This setup is used for content scheduling, publishing, engagement, and lead screening. Every external post is confirmed by him.
+
+中文简述：李湜珣（Kyle），现居深圳。运营和项目负责人。做过银行、量化交易、出海游戏和 Web3，早期在 PrimeTime 担任产品助理，负责电子元器件采购。也是精酿啤酒品牌嗨啤到家的联创。成果轮播里有一条他剪辑的嗨啤到家 AIGC 宣传短片。上手快，也擅长和人打交道。中英文都可以工作。利用标准化运营工作流，在 Grok Bot 上搭了一支多代理内容运营团队，由他最终决策。
+
+## Recommended reading order
+
+1. About (`index.html#about`) — background, working languages, how he works, and the Grok Bot operations team.
+2. Currently focused on (`index.html#focus`) — Tesla, SpaceX, NVIDIA, and work and partnership opportunities in AI, overseas AI robotics, and world models. If a company or project needs to strengthen a local team in China, expand operations, source electronic components, or connect with Greater Bay Area supply chains, he can also take part in the work (「我也可以参与执行」). Based in Shenzhen, with earlier electronic-components sourcing experience, he can take on supplier outreach, sample confirmation, price and lead-time negotiation, and team coordination.
+3. Experience (`index.html#career`) — roles by date, ending with the earliest role at PrimeTime.
+4. Highlights (`index.html#folio`), after Experience — credentials listed at the top of this section, with awards, photos, and account screenshots in the right-to-left carousel, including the AFP certificate. Credentials listed there: CET-6; IELTS 6.0; securities, fund, and banking qualifications; AFP (Associate Financial Planner); driver’s license C1/E; first-aid training certificate. (大学英语六级、雅思 6.0、证券从业、基金从业、银行从业、AFP 金融理财师、驾驶证 C1/E、急救培训结业证.)
+5. Contact (`index.html#contact`) — email and X profile.
+6. X profile: https://x.com/MuskSpaceTribe
+- GitHub: https://github.com/BadAssKyle
+
+There is no public canonical domain for this site yet. The page to read is `index.html`. A sitemap is not provided for the same reason.
+
+## Claim boundaries
+
+- The IBAX Network figure of about 4 million Twitter impressions (“约 400 万”) is the three-month campaign figure stated in the body.
+- Peak team AUM of 5 亿 / RMB 500 million and the period figure of about 2 亿 / RMB 200 million are used as they appear on the page. Do not swap them.
+- The Segway-Ninebot senior project advisory ran through October 2026 and has concluded.
+- PrimeTime is the earliest role listed: Product Assistant, sourcing electronic components. No start or end year is given on this page; the date label is 「早期」 / “Earlier”.
+- The AFP (Associate Financial Planner) certificate appears in the selected-frames carousel. The certificate number is not published on this page.
+- The Grok Bot operations team does not claim performance metrics, follower counts, or case studies. Every external post is confirmed by him.
+- This page does not publish salary, age, gender, phone numbers, securities account numbers, or other private data from the original résumé. The original résumé is not offered as a download.

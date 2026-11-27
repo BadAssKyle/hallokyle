@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Static personal profile. Start with index.html and llms.txt.
+# No public canonical URL has been assigned yet, so a sitemap is not provided.
